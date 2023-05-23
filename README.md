@@ -1,6 +1,6 @@
 # HW_1_Git
 Here are the results of my first homework on Git.
-## 1. JSON
+## 1. [JSON](https://github.com/emcpoh/JSON)
 ### 1.1. Create an external repository named JSON:
     In browser:
     https://github.com/emcpoh?tab=repositories -> New -> JSON
@@ -103,7 +103,7 @@ Here are the results of my first homework on Git.
 ### 1.17. Synchronize external and local JSON repository:
     kapli@mcpoh MINGW64 ~/Desktop/QA/Git/JSON
     $ git pull
-## 2. XML
+## 2. [XML](https://github.com/emcpoh/XML)
 ### 2.1. Create an external repository named XML:
     In browser:
     https://github.com/emcpoh?tab=repositories -> New -> XML
@@ -202,7 +202,7 @@ Here are the results of my first homework on Git.
 ### 2.18. Synchronize external and local JSON repository:
     kapli@mcpoh MINGW64 ~/Desktop/QA/Git/JSON
     $ git pull
-## 3. TXT
+## 3. [TXT](https://github.com/emcpoh/TXT)
 ### 3.1. Create an external repository named TXT:
     In browser:
     https://github.com/emcpoh?tab=repositories -> New -> TXT
